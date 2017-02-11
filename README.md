@@ -8,7 +8,7 @@ Jeux vidéo style Puzzle Game réalisé en Java Swing.
 Je vous conseille la lecture de la documentation pour comprendre plus en détail le fonctionnement du jeu et son développement.
 
 # Lancement
-Il suffit de lancer la class compilé Cinterface.class du dossier "exécutables".
+Il suffit de lancer la classe compilée Cinterface.class du dossier "exécutables".
 
 # Screenshots 
 
